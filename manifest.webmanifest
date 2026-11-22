@@ -1,0 +1,10 @@
+{
+  "name": "Vice Coast 3D — Open World Metropolis",
+  "short_name": "Vice Coast 3D",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#05020e",
+  "theme_color": "#ec4899",
+  "description": "3D Open-World Coastal City Game built with Three.js, Unity C#, Blender 4.x & Higgsfield AI."
+}
